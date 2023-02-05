@@ -1,0 +1,9 @@
+.flexcontainer1{
+    margin: auto auto;
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+    box-shadow: 0px 3px 5px rgb(0, 26, 255);
+}
